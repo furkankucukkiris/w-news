@@ -1,0 +1,36 @@
+.container {
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.card {
+    width: 470px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardText{
+    width: 310px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.cardTitle{
+    font-size: 45px;
+    font-weight: 700;
+    color: grey;
+    margin: 0;
+}
+
+.cardSubTitle {
+    font-size: 18px;
+    font-weight: 1000;
+}
+
+.cardSubTitle:hover {
+    color: #f15d51;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.navbar{
+    width: 1440px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_links{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_links a:hover{
+    color: #F9A826;
+    cursor: pointer;
+}
