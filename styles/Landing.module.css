@@ -87,3 +87,8 @@
     color: #e6aa4c;
     cursor: pointer;
 }
+.bigImage {
+    position: relative;
+    width: 900px;
+    height: 450px;
+}

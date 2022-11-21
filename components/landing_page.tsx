@@ -6,7 +6,7 @@ export default function Landing() {
     <div className={styles.container}>
       <div className={styles.conl}>
         <div className={styles.bigImage}>
-          <Image src="/images/image-web-3-desktop.jpg" alt="img" width={900} height={450} />
+          <Image src="/images/image-web-3-desktop.jpg" alt="big-img" fill />
         </div>
         <div className={styles.textArea}>
           <div className={styles.textl}>

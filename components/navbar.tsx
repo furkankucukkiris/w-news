@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className={styles.navbar}>
       <div className={styles.logo}>
-        <Image src="/images/logo.svg" alt="logo" width={70} height={70}/>
+        <Image src="/images/logo.svg" alt="logo" fill/>
       </div>
       <div className={styles.nav_links}>
         <a>Home</a>

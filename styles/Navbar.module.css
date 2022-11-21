@@ -17,3 +17,9 @@
     color: #F9A826;
     cursor: pointer;
 }
+
+.logo{
+    position: relative;
+    width: 70px;
+    height: 70px;
+}

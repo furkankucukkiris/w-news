@@ -34,3 +34,9 @@
     color: #f15d51;
     cursor: pointer;
 }
+
+.cardImage {
+    position: relative;
+    width: 150px;
+    height: 180px;
+}
